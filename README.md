@@ -4,8 +4,6 @@
 
 This project and resulting web page are the results of the prework assignment for the upcoming coding bootcamp I have enrolled in.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - My motivation for this project was to be as prepared as possible for the bootcamp by completing all the prework and learning from it. 
 - This project was built in stages in which I learned many basic building blocks and methods used in development.
 - What problem does it solve? It provides a web based "study guide" Which I can access from any connected device and share with others if needed.
